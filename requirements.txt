@@ -20,3 +20,4 @@ chart-studio   # For advanced data visualization (legacy support)
 
 # Utilities
 setuptools     # For package management and installation
+gunicorn==23.0.0
