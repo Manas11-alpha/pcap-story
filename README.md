@@ -109,5 +109,25 @@ Built for educators using these amazing open-source projects:
 - [**vis.js**](http://visjs.org/) & [**Chart.js**](https://www.chartjs.org/) - The Visuals.
 
 ---
+---
 
-**Made with ❤️ for students of Cybersecurity**
+## 🌐 Live Deployment
+
+PCAP StoryTeller is deployed on **AWS EC2** and available as a live application.
+
+🚀 **Live Demo:**  
+[![LIVE_DEMO](https://img.shields.io/badge/LIVE_DEMO-Open%20Application-brightgreen?style=for-the-badge)](http://13.53.195.103:5000)
+
+### ☁️ Deployment Details
+
+- **Cloud Platform:** AWS EC2
+- **Deployment Type:** Cloud-hosted Flask Application
+- **Server:** Ubuntu EC2 Instance
+- **Application Server:** Flask
+- **Public Access:** Enabled through AWS Security Groups
+- **Networking:** Elastic IPv4 Address configured for public accessibility
+
+The application is deployed on a dedicated EC2 instance and can be accessed through the public endpoint above.
+
+---
+**Made with ❤️ with the help students of Cybersecurity**
