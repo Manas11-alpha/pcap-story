@@ -8,6 +8,14 @@
   Transform messy PCAP network traffic into an interactive, visual storyboard. Built from the ground up to make network forensics easy to teach, learn, and understand.
 </p>
 
+
+
+
+https://github.com/user-attachments/assets/1c72dc34-e355-468d-b38e-7e1c42a6d022
+
+
+
+
 ---
 
 ## 🌟 Why PCAP StoryTeller? (The Problem)
